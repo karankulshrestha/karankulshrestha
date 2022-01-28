@@ -15,21 +15,53 @@
 I am a full-stack software engineer having good experience in designing and developing scalable web and mobile applications on the cloud along with that I also felt comfortable while working with machine learning model deployments, also having fun developing cutting edge solutions for
 individuals and enterprises. 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42493387/151629782-b3844859-9c18-4c3e-bc98-058a148951ca.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42493387/151633618-54977285-231d-4802-ac65-4fae4c6367da.gif" width="500" height="320" />
 
 ### More about me! 😄
 
 - 🍹 Currently working on something that creates a very big change in society. 
 - 🚢 I love to try different varities of foods 🍰 and travelling 🏖️ 
 - 😉 I am working as an entrepreneur.
-- ❤️ Currently, I work as an intern in Microsoft Seattle.
+- ❤️ Currently, I work as an remote intern in Microsoft Seattle.
 - ✍️ I write on quora you can read here <a href="https://www.quora.com/profile/Karan-Kulshrestha-4">Quora profile</a>
 - 📷 Sometimes I also worked as a graphic designer and video editor.
 - ✨ Last but not least I started opensource contribution
 
 
-#
+
+# ⚒️ Technologies and Tools
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>&nbsp;
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karankulshrestha&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karankulshrestha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-redme-stats) -->
+
+# 👨‍💻 Most used programming languages
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42493387/151635539-827c7ea5-ca8e-4a65-ab5a-a9e0b9fd65ac.gif" width="300" height="280" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karankulshrestha&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# 📊 Github Statistics
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42493387/151635156-f3a80cb7-d7f8-4f83-b0a1-aac5e30ef424.gif" width="300" height="250" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karankulshrestha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-redme-stats)
+
+# 😀 Final Words
+
+I know, frankly speaking, my Github profile is not awesome so I do hard work so I make my profile awesome till then I am eagerly waiting for suggestions from you guys on how I make my profile looks cooler 😎
+
