@@ -1,5 +1,5 @@
 ![Blue Personal Men Twitter Header](https://user-images.githubusercontent.com/42493387/151616142-295cc35d-767b-4586-ac46-1da3b0c465ae.png)
-# Hi, I'm Karan<img src="https://user-images.githubusercontent.com/42493387/151617087-bfcb4e82-a0fb-48d9-9b61-be992a33fce8.gif" width="100px">
+# Hi, I'm Karan<img src="https://user-images.githubusercontent.com/42493387/151617087-bfcb4e82-a0fb-48d9-9b61-be992a33fce8.gif" width="100px" height="100px">
 
 <p align='center'>
 <a href="https://stackoverflow.com/users/10243101/karankulshrestha"><img height="30" src="https://user-images.githubusercontent.com/42493387/151620960-f3590df4-2f39-4538-8ce3-314c5d72b412.png"></a>&nbsp;&nbsp;
