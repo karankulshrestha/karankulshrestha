@@ -61,5 +61,5 @@ individuals and enterprises.
 
 # 😀 Final Words
 
-I know, frankly speaking, my Github profile is not awesome so I do hard work so I make my profile awesome till then I am eagerly waiting for suggestions from you guys on how I make my profile looks cooler 😎
+I know, frankly speaking, my Github profile is not awesome so I do hard work and make my profile awesome till then I am eagerly waiting for suggestions from you guys on how I make my profile looks cooler 😎
 
