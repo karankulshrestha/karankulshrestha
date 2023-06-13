@@ -19,12 +19,9 @@ individuals and enterprises.
 
 ### More about me! 😄
 
-- 🍹 Currently working on something that creates a very big change in society. 
-- 🚢 I love to try different varities of foods 🍰 and travelling 🏖️ 
+- 🍹 Currently working on Large Language Models. 
 - 😉 I am working as an entrepreneur and developer.
 - ✍️ I write on quora you can read here <a href="https://www.quora.com/profile/Karan-Kulshrestha-4">Quora profile</a>
-- 📷 Sometimes I also worked as a graphic designer and video editor.
-- ✨ Last but not least I started opensource contribution
 
 
 # ⚒️ Technologies and Tools
