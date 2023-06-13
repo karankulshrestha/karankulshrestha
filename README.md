@@ -1,11 +1,12 @@
-![man-neon-suit-sits-chair-with-neon-sign-that-says-word-it](https://github.com/JoeyTawadrous/Facebook-Auto-Pilot/assets/42493387/1669a43b-7c09-4cee-906a-d121666baf78)
+<img alt="GIF" src="https://github.com/JoeyTawadrous/Facebook-Auto-Pilot/assets/42493387/1669a43b-7c09-4cee-906a-d121666baf78" width="1000px" height="380px" />
+
 # Hi, I'm Karan<img src="https://user-images.githubusercontent.com/42493387/151617087-bfcb4e82-a0fb-48d9-9b61-be992a33fce8.gif" width="100px" height="100px">
 
 <p align='center'>
 <a href="https://stackoverflow.com/users/10243101/karankulshrestha"><img height="30" src="https://user-images.githubusercontent.com/42493387/151620960-f3590df4-2f39-4538-8ce3-314c5d72b412.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/karankulx"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/mrkcr707/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCZdrfGb9LPmLetKyOD_sjzw"><img height="30" src="https://user-images.githubusercontent.com/42493387/151620647-934b10e0-9461-406c-ae7a-938888c2dfb1.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/karankulx/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@karankulx"><img height="30" src="https://user-images.githubusercontent.com/42493387/151620647-934b10e0-9461-406c-ae7a-938888c2dfb1.png"></a>&nbsp;&nbsp;
 <a href="https://in.linkedin.com/in/karankulshrestha"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Karan-Kulshrestha-4"><img height="30" src="https://user-images.githubusercontent.com/42493387/151621416-4ecddd57-bcd4-470a-99c5-366ef488f8a7.jpg"></a>
 </p>
