@@ -20,8 +20,11 @@ individuals and enterprises.
 ### More about me! 😄
 
 - 🍹 Currently working on Large Language Models. 
+- 🚢 I love food 🍰 and travelling 🏖️ 
 - 😉 I am working as an entrepreneur and developer.
 - ✍️ I write on quora you can read here <a href="https://www.quora.com/profile/Karan-Kulshrestha-4">Quora profile</a>
+- 📷 Sometimes I also worked as a graphic designer and video editor.
+- ✨ Last but not least I try to start opensource project
 
 
 # ⚒️ Technologies and Tools
