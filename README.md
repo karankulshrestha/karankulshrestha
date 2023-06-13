@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://github.com/JoeyTawadrous/Facebook-Auto-Pilot/assets/42493387/1669a43b-7c09-4cee-906a-d121666baf78" width="1000px" height="380px" />
+<img alt="GIF" src="https://github.com/JoeyTawadrous/Facebook-Auto-Pilot/assets/42493387/1669a43b-7c09-4cee-906a-d121666baf78" width="1000px" height="480px" />
 
 # Hi, I'm Karan<img src="https://user-images.githubusercontent.com/42493387/151617087-bfcb4e82-a0fb-48d9-9b61-be992a33fce8.gif" width="100px" height="100px">
 
@@ -16,7 +16,7 @@
 I am a full-stack software engineer having good experience in designing and developing scalable web and mobile applications on the cloud along with that I also felt comfortable while working with machine learning model deployments, also having fun developing cutting edge solutions for
 individuals and enterprises. 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42493387/151633618-54977285-231d-4802-ac65-4fae4c6367da.gif" width="500" height="320" />
+<img alt="GIF" src="https://user-images.githubusercontent.com/42493387/151633618-54977285-231d-4802-ac65-4fae4c6367da.gif" width="500" height="320" />
 
 ### More about me! 😄
 
