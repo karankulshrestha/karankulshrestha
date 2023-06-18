@@ -58,7 +58,7 @@ individuals and enterprises.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/42493387/151635156-f3a80cb7-d7f8-4f83-b0a1-aac5e30ef424.gif" width="300" height="250" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karankulshrestha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-redme-stats)
+<a href="http://www.github.com/karankulshrestha"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karankulshrestha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vaidic's GitHub stats"/></a></br></br>
 
 # 😀 Final Words
 
