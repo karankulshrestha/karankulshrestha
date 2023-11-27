@@ -10,7 +10,7 @@ Karan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a <a href="https://phoenix.tech/griffyn/" target="blank">Freelance Developer</a>
+- 🔭 I’m currently working as a <a href="https://linkedin.com/in/karankulshrestha" target="blank">Freelance Developer</a>
 
 - 🌱 I’m currently Working on System Design (Microservices)
 
@@ -33,20 +33,20 @@ Karan</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/karankulshrestha/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/rajkulx">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/10243101/karankulshrestha">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@karankulx">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+					<img src="https://img.icons8.com/?size=256&id=71j3Yu2sKtP8&format=png" width="5%" height="5%" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/karankulx">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/karankulxx">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://youtube.com/@karankulx?si=8xyu5LBeB5YelU5f">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/19Zn7f-A1NLTWcrfHLVrb2bPJ6emDVT2F/view">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="https://img.icons8.com/?size=256&id=zEj141qHoHc8&format=png" width="5%" height="5%" ></a>
       </div>
 
 </p>
