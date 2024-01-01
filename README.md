@@ -55,7 +55,7 @@ Karan</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Using GPT-3 and Whisper to generate a Summary of a YouTube video of any language](https://medium.com/@karankulx/using-gpt-3-and-whisper-to-generate-a-summary-of-a-youtube-video-of-any-language-c8d5f2b70bbb)
+- [Demystifying AWS EC2 Instances: A Comprehensive Guide to Understanding, Choosing, and Optimizing Your Virtual Machines](https://karankulx.hashnode.dev/demystifying-aws-ec2-instances-a-comprehensive-guide-to-understanding-choosing-and-optimizing-your-virtual-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
