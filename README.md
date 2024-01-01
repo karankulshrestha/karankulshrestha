@@ -14,11 +14,11 @@ Karan</a></h1>
 
 - 🌱 I’m currently Working on System Design (Microservices)
 
-- 🤝 I’m available forcontract-based works.
+- 🤝 I’m available for contract-based works.
 
 - 🌱 I’m currently learning Generative AI && Large Language Models working at Scale.
 
-- 📝 I regularly write articles on [https://karankulx.hashnode.dev/)
+- 📝 I regularly write articles on https://karankulx.hashnode.dev
 
 - 💬 Ask me about **Full Stack Development & Microservices**
 
