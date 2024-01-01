@@ -18,7 +18,7 @@ Karan</a></h1>
 
 - 🌱 I’m currently learning Generative AI && Large Language Models working at Scale.
 
-- 📝 I regularly write articles on [https://medium.com/@karankulx](https://medium.com/@karankulx)
+- 📝 I regularly write articles on [https://karankulx.hashnode.dev/)
 
 - 💬 Ask me about **Full Stack Development & Microservices**
 
