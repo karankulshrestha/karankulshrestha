@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Karan</a></h1>
-<h3 align="center">A passionate Full Stack Developer from Delhi India &#127470;&#127475</h3>
+<h3 align="center">A passionate AI Engineer &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -20,11 +20,10 @@ Karan</a></h1>
 
 - 📝 I regularly write articles on https://karankulx.hashnode.dev
 
-- 💬 Ask me about **Full Stack Development & Microservices**
+- 💬 Ask me about **Deep Learning, LLM, Full Stack Development & Microservices**
 
 - 📫 How to reach me **officialkarankulx@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19Zn7f-A1NLTWcrfHLVrb2bPJ6emDVT2F/view" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
