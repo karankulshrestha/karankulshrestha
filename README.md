@@ -52,11 +52,11 @@ Karan</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Demystifying AWS EC2 Instances: A Comprehensive Guide to Understanding, Choosing, and Optimizing Your Virtual Machines](https://karankulx.hashnode.dev/demystifying-aws-ec2-instances-a-comprehensive-guide-to-understanding-choosing-and-optimizing-your-virtual-machines)
+- [Demystifying AWS EC2 Instances: A Comprehensive Guide to Understanding, Choosing, and Optimizing Your Virtual Machines](https://karankulx.hashnode.dev/designing-a-scalable-architecture-for-time-consuming-background-processing-services)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 Credit: [Karan Kulshrestha](https://github.com/rajkulx)
 
-Last Edited on: 27/11/2023
+Last Edited on: 15/11/2024
