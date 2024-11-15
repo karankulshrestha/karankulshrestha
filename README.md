@@ -52,7 +52,7 @@ Karan</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Demystifying AWS EC2 Instances: A Comprehensive Guide to Understanding, Choosing, and Optimizing Your Virtual Machines](https://karankulx.hashnode.dev/designing-a-scalable-architecture-for-time-consuming-background-processing-services)
+- [Designing a Scalable Architecture for Time-Consuming Background Processing Services](https://karankulx.hashnode.dev/designing-a-scalable-architecture-for-time-consuming-background-processing-services)
 <!-- BLOG-POST-LIST:END -->
 
 ---
