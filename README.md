@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Karan</a></h1>
-<h3 align="center">A passionate AI Engineer &#127470;&#127475</h3>
+<h3 align="center"> A Passionate AI Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,13 +10,11 @@ Karan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a <a href="https://linkedin.com/in/karankulshrestha" target="blank">Freelance Developer</a>
+- 🔭 I’m currently working as a <a href="https://linkedin.com/in/karankulshrestha" target="blank">AI Engineer</a>
 
-- 🌱 I’m currently Working on System Design (Microservices)
+- 🌱 I’m learning about advanced LLM reasoning
 
 - 🤝 I’m available for contract-based works.
-
-- 🌱 I’m currently learning Generative AI && Large Language Models working at Scale.
 
 - 📝 I regularly write articles on https://karankulx.hashnode.dev
 
